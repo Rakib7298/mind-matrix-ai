@@ -1,0 +1,9 @@
+{
+  "name": "Mind Matrix AI Web App",
+  "description": "A futuristic AI companion with 9 dynamic personas, multimodal processing, and proactive assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
